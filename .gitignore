@@ -12,8 +12,6 @@ bin/
 obj/
 
 # Excluded / Scratch directories
-NO NEED/
-NO NEED/*
 graphify-out/
 
 # Android Studio & Gradle
