@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LEAN MODE</string>
+    <string name="title_activity_main">LEAN MODE</string>
+    <string name="package_name">com.leanmode.tracker</string>
+    <string name="custom_url_scheme">com.leanmode.tracker</string>
+</resources>
