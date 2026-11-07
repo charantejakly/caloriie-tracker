@@ -6,19 +6,14 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # Build artifacts & distribution
-dist/
 build/
 bin/
 obj/
-
-# Excluded / Scratch directories
-graphify-out/
 
 # Android Studio & Gradle
 .gradle/
 android/.gradle/
 android/app/build/
-android/app/src/main/assets/public/
 android/build/
 *.apk
 *.aab

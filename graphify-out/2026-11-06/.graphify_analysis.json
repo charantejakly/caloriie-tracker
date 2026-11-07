@@ -1,0 +1,349 @@
+{
+  "communities": {
+    "0": [
+      "src_main",
+      "src_main_activedate",
+      "src_main_app",
+      "src_main_csv",
+      "src_main_customexerciseformmodalhtml",
+      "src_main_customexercisesmanagermodalhtml",
+      "src_main_data",
+      "src_main_dataview",
+      "src_main_datelabel",
+      "src_main_detailedbadgetext",
+      "src_main_download",
+      "src_main_empty",
+      "src_main_esc",
+      "src_main_estimatepreviewhtml",
+      "src_main_exercisepickermodalhtml",
+      "src_main_foodcard",
+      "src_main_foodview",
+      "src_main_layout",
+      "src_main_macro",
+      "src_main_modal",
+      "src_main_musclemappingmodalhtml",
+      "src_main_navbutton",
+      "src_main_number",
+      "src_main_openmodal",
+      "src_main_openworkouteditor",
+      "src_main_persist",
+      "src_main_profileview",
+      "src_main_progressview",
+      "src_main_recoveryconfigmodalhtml",
+      "src_main_todayview",
+      "src_main_workouteditorview",
+      "src_main_workoutview",
+      "src_store_calculatebmr",
+      "src_store_calculatetdee",
+      "src_store_savedata",
+      "src_store_targetcalories"
+    ],
+    "1": [
+      "ref_node_assert",
+      "ref_node_test",
+      "src_anatomy_svg",
+      "src_anatomy_svg_getaria",
+      "src_anatomy_svg_getcolor",
+      "src_anatomy_svg_renderanteriorsvg",
+      "src_anatomy_svg_renderposteriorsvg",
+      "src_heatmap",
+      "src_heatmap_calculatedailyheatmap",
+      "src_heatmap_default_heatmap_thresholds",
+      "src_heatmap_heatmap_palette",
+      "src_heatmap_validateheatmapthresholds",
+      "src_muscle_data",
+      "src_muscle_data_built_in_exercises",
+      "src_muscle_data_canonical_catalog",
+      "src_muscle_data_canonical_muscles",
+      "src_muscle_data_getworkoutdetailstatus",
+      "src_muscle_data_ispositivenumber",
+      "src_muscle_data_isvalidexercise",
+      "src_muscle_data_isvalidset",
+      "src_recovery",
+      "src_recovery_calculateallmusclerecovery",
+      "src_recovery_calculatemusclerecovery",
+      "src_recovery_default_recovery_hours",
+      "src_recovery_findlatestprimarysession",
+      "src_recovery_validaterecoveryhours",
+      "src_store_current_schema_version",
+      "tests_training_test",
+      "tests_training_test_makesessionwithsets",
+      "tests_ui_test",
+      "tests_ui_test_renderworkoutviewsimulation"
+    ],
+    "2": [
+      "package",
+      "package_dependencies",
+      "package_dependencies_capacitor_android",
+      "package_dependencies_capacitor_cli",
+      "package_dependencies_capacitor_core",
+      "package_name",
+      "package_private",
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_preview",
+      "package_scripts_start",
+      "package_scripts_sync",
+      "package_scripts_test",
+      "package_type",
+      "package_version",
+      "ref_capacitor_android",
+      "ref_capacitor_cli",
+      "ref_capacitor_core"
+    ],
+    "3": [
+      "ref_node_fs",
+      "ref_node_http",
+      "ref_node_path",
+      "scripts_build",
+      "scripts_build_output",
+      "scripts_build_root",
+      "scripts_server",
+      "scripts_server_base",
+      "scripts_server_mime",
+      "scripts_server_server",
+      "src_food_estimator",
+      "src_food_estimator_add",
+      "src_food_estimator_estimatefood",
+      "src_food_estimator_foods",
+      "src_food_estimator_item",
+      "src_food_estimator_parsequantity",
+      "src_food_estimator_rounded"
+    ],
+    "4": [
+      "src_muscle_data_evaluateloggingstatus",
+      "src_store",
+      "src_store_blankdata",
+      "src_store_default_profile",
+      "src_store_loaddata",
+      "src_store_localdate",
+      "src_store_mergedata",
+      "src_store_migratedata",
+      "src_store_nutrition",
+      "src_store_streak",
+      "src_store_uid",
+      "src_store_validatebackup",
+      "src_store_weeklysummary",
+      "tests_store_test"
+    ],
+    "5": [
+      "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest",
+      "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest_exampleinstrumentedtest",
+      "android_app_src_androidtest_java_com_getcapacitor_myapp_exampleinstrumentedtest_exampleinstrumentedtest_useappcontext",
+      "android_app_src_test_java_com_getcapacitor_myapp_exampleunittest",
+      "android_app_src_test_java_com_getcapacitor_myapp_exampleunittest_exampleunittest",
+      "android_app_src_test_java_com_getcapacitor_myapp_exampleunittest_exampleunittest_addition_iscorrect",
+      "androidx_test_ext_junit_runners_androidjunit4",
+      "assert",
+      "context",
+      "instrumentationregistry",
+      "org_junit_runner_runwith",
+      "org_junit_test"
+    ],
+    "6": [
+      "src_idb",
+      "src_idb_deleteattachment",
+      "src_idb_getallattachmentids",
+      "src_idb_getattachment",
+      "src_idb_opendb",
+      "src_idb_saveattachment"
+    ],
+    "7": [
+      "android_gradlew",
+      "android_gradlew__entry",
+      "android_gradlew_die",
+      "android_gradlew_warn"
+    ],
+    "8": [
+      "android_app_src_main_java_com_leanmode_tracker_mainactivity",
+      "android_app_src_main_java_com_leanmode_tracker_mainactivity_mainactivity",
+      "com_getcapacitor_bridgeactivity"
+    ],
+    "9": [
+      "sw",
+      "sw_assets"
+    ],
+    "10": [
+      "android_app_build"
+    ],
+    "11": [
+      "android_app_capacitor_build"
+    ],
+    "12": [
+      "android_build"
+    ],
+    "13": [
+      "android_capacitor_settings"
+    ],
+    "14": [
+      "android_settings"
+    ],
+    "15": [
+      "android_variables"
+    ]
+  },
+  "cohesion": {
+    "0": 0.1365079365079365,
+    "1": 0.21505376344086022,
+    "2": 0.13071895424836602,
+    "3": 0.15441176470588236,
+    "4": 0.31868131868131866,
+    "5": 0.24242424242424243,
+    "6": 0.6,
+    "7": 0.8333333333333334,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0
+  },
+  "gods": [
+    {
+      "id": "src_main_esc",
+      "label": "esc()",
+      "degree": 13
+    },
+    {
+      "id": "src_main_workoutview",
+      "label": "workoutView()",
+      "degree": 13
+    },
+    {
+      "id": "src_main_todayview",
+      "label": "todayView()",
+      "degree": 11
+    },
+    {
+      "id": "src_main_layout",
+      "label": "layout()",
+      "degree": 11
+    },
+    {
+      "id": "src_muscle_data_isvalidset",
+      "label": "isValidSet()",
+      "degree": 11
+    },
+    {
+      "id": "src_store_migratedata",
+      "label": "migrateData()",
+      "degree": 10
+    },
+    {
+      "id": "src_heatmap_calculatedailyheatmap",
+      "label": "calculateDailyHeatmap()",
+      "degree": 9
+    },
+    {
+      "id": "src_muscle_data_isvalidexercise",
+      "label": "isValidExercise()",
+      "degree": 9
+    },
+    {
+      "id": "src_anatomy_svg_renderanteriorsvg",
+      "label": "renderAnteriorSvg()",
+      "degree": 8
+    },
+    {
+      "id": "src_anatomy_svg_renderposteriorsvg",
+      "label": "renderPosteriorSvg()",
+      "degree": 8
+    }
+  ],
+  "surprises": [
+    {
+      "source": "renderWorkoutViewSimulation()",
+      "target": "renderAnteriorSvg()",
+      "source_files": [
+        "tests/ui.test.js",
+        "src/anatomy-svg.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "renderWorkoutViewSimulation()",
+      "target": "renderPosteriorSvg()",
+      "source_files": [
+        "tests/ui.test.js",
+        "src/anatomy-svg.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "renderWorkoutViewSimulation()",
+      "target": "calculateDailyHeatmap()",
+      "source_files": [
+        "tests/ui.test.js",
+        "src/heatmap.js"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "connects across different repos/directories"
+    },
+    {
+      "source": "detailedBadgeText()",
+      "target": "isValidSet()",
+      "source_files": [
+        "src/main.js",
+        "src/muscle-data.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "indirect_call",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities"
+    },
+    {
+      "source": "workoutView()",
+      "target": "isValidSet()",
+      "source_files": [
+        "src/main.js",
+        "src/muscle-data.js"
+      ],
+      "confidence": "INFERRED",
+      "relation": "indirect_call",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `estimateFood()` connect `Build Scripts & Dev Server` to `UI Views and App Shell`, `Store State & Muscle Data Model`?",
+      "why": "High betweenness centrality (0.055) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `workoutView()` (e.g. with `layout()` and `isValidSet()`) actually correct?",
+      "why": "`workoutView()` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `UI Views and App Shell` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1365079365079365 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `renderAnteriorSvg()` connect `Anatomy SVG & Heatmap Rendering` to `UI Views and App Shell`?",
+      "why": "High betweenness centrality (0.008) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `todayView()` (e.g. with `layout()` and `foodCard()`) actually correct?",
+      "why": "`todayView()` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Capacitor Package Config` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.13071895424836602 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 7 inferred relationships involving `layout()` (e.g. with `dataView()` and `foodView()`) actually correct?",
+      "why": "`layout()` has 7 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

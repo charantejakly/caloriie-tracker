@@ -1,0 +1,10 @@
+{
+  "name": "LEAN MODE Calorie Tracker",
+  "short_name": "LEAN MODE",
+  "description": "Private personal calorie and training record tracker.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ed",
+  "theme_color": "#0d1712",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

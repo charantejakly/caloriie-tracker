@@ -1,0 +1,159 @@
+{
+  "android/app/build.gradle": {
+    "mtime": 1793799666.0255418,
+    "seen": 1793882520.9589717,
+    "ast_hash": "88ab037e8dfc03bdef6a394ef68c3225",
+    "semantic_hash": "88ab037e8dfc03bdef6a394ef68c3225"
+  },
+  "android/app/capacitor.build.gradle": {
+    "mtime": 1793881868.2912047,
+    "seen": 1793882520.96277,
+    "ast_hash": "b863e425fbde80251bd3c68ac8ccba02",
+    "semantic_hash": "b863e425fbde80251bd3c68ac8ccba02"
+  },
+  "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java": {
+    "mtime": 1793204073.0,
+    "seen": 1793882520.963573,
+    "ast_hash": "fbaf7cc870c663eb52dcf218531c439d",
+    "semantic_hash": "fbaf7cc870c663eb52dcf218531c439d"
+  },
+  "android/app/src/main/java/com/leanmode/tracker/MainActivity.java": {
+    "mtime": 1793799666.0244937,
+    "seen": 1793882520.9650729,
+    "ast_hash": "eef5e0ce112ed09111ba35ea4f8475a4",
+    "semantic_hash": "eef5e0ce112ed09111ba35ea4f8475a4"
+  },
+  "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java": {
+    "mtime": 1793204073.0,
+    "seen": 1793882520.9650729,
+    "ast_hash": "e91b4501c14da821682fa5c26a16d616",
+    "semantic_hash": "e91b4501c14da821682fa5c26a16d616"
+  },
+  "android/build.gradle": {
+    "mtime": 1793204073.0,
+    "seen": 1793882520.9650729,
+    "ast_hash": "682315a426653617c6a74fc12bef55b6",
+    "semantic_hash": "682315a426653617c6a74fc12bef55b6"
+  },
+  "android/capacitor.settings.gradle": {
+    "mtime": 1793881868.2912047,
+    "seen": 1793882520.9650729,
+    "ast_hash": "455ebb7f9fe84a6974da6bdae43097c2",
+    "semantic_hash": "455ebb7f9fe84a6974da6bdae43097c2"
+  },
+  "android/gradlew": {
+    "mtime": 1793204073.0,
+    "seen": 1793882520.9650729,
+    "ast_hash": "794669d78aef1dd5c7d889ef618b311a",
+    "semantic_hash": "794669d78aef1dd5c7d889ef618b311a"
+  },
+  "android/settings.gradle": {
+    "mtime": 1793204073.0,
+    "seen": 1793882520.9650729,
+    "ast_hash": "f6cd925b3f859e23c3d819fe2459e0e4",
+    "semantic_hash": "f6cd925b3f859e23c3d819fe2459e0e4"
+  },
+  "android/variables.gradle": {
+    "mtime": 1793204073.0,
+    "seen": 1793882520.9650729,
+    "ast_hash": "4b3fce8ea2a515a9d2e47e74757172ec",
+    "semantic_hash": "4b3fce8ea2a515a9d2e47e74757172ec"
+  },
+  "capacitor.config.json": {
+    "mtime": 1793799623.295866,
+    "seen": 1793882520.9722939,
+    "ast_hash": "95258bf88333512e9ebd4e592b1400b5",
+    "semantic_hash": "95258bf88333512e9ebd4e592b1400b5",
+    "ast_empty": true
+  },
+  "package.json": {
+    "mtime": 1793810892.7479172,
+    "seen": 1793882520.9722939,
+    "ast_hash": "b4216db5576fa9359f3ad46656d0de70",
+    "semantic_hash": "b4216db5576fa9359f3ad46656d0de70"
+  },
+  "scripts/build.mjs": {
+    "mtime": 1793612227.937901,
+    "seen": 1793882520.9730487,
+    "ast_hash": "0ca046b75006fd30faaa5cccfc26c687",
+    "semantic_hash": "0ca046b75006fd30faaa5cccfc26c687"
+  },
+  "scripts/server.mjs": {
+    "mtime": 1793697343.9607766,
+    "seen": 1793882520.9730487,
+    "ast_hash": "bba898dac10bdadee00ad957ba3d157c",
+    "semantic_hash": "bba898dac10bdadee00ad957ba3d157c"
+  },
+  "src/anatomy-svg.js": {
+    "mtime": 1793877747.2214713,
+    "seen": 1793882520.975424,
+    "ast_hash": "83dd99cc6f76dd242033c038cbfdbe7f",
+    "semantic_hash": "83dd99cc6f76dd242033c038cbfdbe7f"
+  },
+  "src/food-estimator.js": {
+    "mtime": 1793696249.4708605,
+    "seen": 1793882520.975424,
+    "ast_hash": "0c3d718323d8d6941ba65fbc23c6ddd1",
+    "semantic_hash": "0c3d718323d8d6941ba65fbc23c6ddd1"
+  },
+  "src/heatmap.js": {
+    "mtime": 1793877747.2660737,
+    "seen": 1793882520.975424,
+    "ast_hash": "cc27eb8a967c2c0666468a38cf80bfc2",
+    "semantic_hash": "cc27eb8a967c2c0666468a38cf80bfc2"
+  },
+  "src/idb.js": {
+    "mtime": 1793696249.4897964,
+    "seen": 1793882520.9774692,
+    "ast_hash": "bf1cb4c3b4cb35935fce8d1c4902e9e3",
+    "semantic_hash": "bf1cb4c3b4cb35935fce8d1c4902e9e3"
+  },
+  "src/main.js": {
+    "mtime": 1793881939.6510446,
+    "seen": 1793882520.9789867,
+    "ast_hash": "0e1a91208e115165902fbdc91f702c3a",
+    "semantic_hash": "0e1a91208e115165902fbdc91f702c3a"
+  },
+  "src/muscle-data.js": {
+    "mtime": 1793876173.0815992,
+    "seen": 1793882520.9813669,
+    "ast_hash": "46e5a21bb2438e51489f711f8f9979ca",
+    "semantic_hash": "46e5a21bb2438e51489f711f8f9979ca"
+  },
+  "src/recovery.js": {
+    "mtime": 1793881939.7449417,
+    "seen": 1793882520.9813669,
+    "ast_hash": "a7c62a21685e0a808d2a231cdb1eba17",
+    "semantic_hash": "a7c62a21685e0a808d2a231cdb1eba17"
+  },
+  "src/store.js": {
+    "mtime": 1793880465.6678545,
+    "seen": 1793882520.9831223,
+    "ast_hash": "3650f58de1b7c5ea5ef3666962b629fb",
+    "semantic_hash": "3650f58de1b7c5ea5ef3666962b629fb"
+  },
+  "sw.js": {
+    "mtime": 1793880465.96489,
+    "seen": 1793882520.9831223,
+    "ast_hash": "1b7125e85e5f7db702345e6672982590",
+    "semantic_hash": "1b7125e85e5f7db702345e6672982590"
+  },
+  "tests/store.test.js": {
+    "mtime": 1793876184.9911642,
+    "seen": 1793882520.9844315,
+    "ast_hash": "601aec75eecf6aa0105c5b4f07bfb484",
+    "semantic_hash": "601aec75eecf6aa0105c5b4f07bfb484"
+  },
+  "tests/training.test.js": {
+    "mtime": 1793881337.404129,
+    "seen": 1793882520.9855177,
+    "ast_hash": "74c411cee8d402cdcdbd84a73d7b76b8",
+    "semantic_hash": "74c411cee8d402cdcdbd84a73d7b76b8"
+  },
+  "tests/ui.test.js": {
+    "mtime": 1793881940.041339,
+    "seen": 1793882520.9861133,
+    "ast_hash": "018b8664be91e51a27d921902a6b9a1c",
+    "semantic_hash": "018b8664be91e51a27d921902a6b9a1c"
+  }
+}

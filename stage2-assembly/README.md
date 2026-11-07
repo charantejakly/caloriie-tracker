@@ -6,3 +6,4 @@ This directory isolates all research datasets, metadata tables, and diagnostic s
 
 - **`data/`**: Official DBCLS BodyParts3D 4.0 metadata tables (`isa_element_parts.txt`, `partof_element_parts.txt`, inclusion trees, and central directory records).
 - **`scripts/`**: Extraction, analysis, coordinate mapping, and verification scripts for assembling `lean-mode-muscles.glb`.
+
