@@ -17,9 +17,8 @@ android/app/build/
 android/build/
 *.apk
 *.aab
-local.properties
-.idea/
-*.iml
+.idea/caches/
+android/.idea/caches/
 .DS_Store
 
 # Logs & temp
